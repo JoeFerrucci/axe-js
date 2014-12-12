@@ -11,6 +11,7 @@ The library was created by [Joe Ferrucci], [@MrFerrucci]:
 # Installation
 ### Place in `<head>`. (change src)
 ```sh
+$ <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 $ <script src="axe.js"></script> 
 ```
 
