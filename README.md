@@ -10,13 +10,13 @@ The library was created by [Joe Ferrucci], [@MrFerrucci]:
 
 # Installation
 ### Place in `<head>` (change src)
-```sh
-$ <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-$ <script src="axe.js"></script> 
+```
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="axe.js"></script> 
 ```
 
 ### Download the files to your system
-```
+```sh
 $ git clone https://github.com/JoeFerrucci/axe-js.git
 ```
 
