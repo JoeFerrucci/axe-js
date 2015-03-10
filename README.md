@@ -3,6 +3,7 @@
 AxeJS is a tiny javascript library that extends some useful funcationality to the developer. 
 
   - Parallax effects
+  - Animation as you scroll
   - Always up-to-date
   - and more...
 
